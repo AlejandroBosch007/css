@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&family=Open+Sans&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.bangers{
+    font-family: 'Bangers', cursive;
+}
+
+.btn-naruto{
+    background-color: #EC4B88;
+    color: white;
+
+}
+.card{
+    margin-top: 10px;
+}
+.card-title{
+    font-family: 'Bangers', cursive;
+    font-size: 38px;
+
+}
+
